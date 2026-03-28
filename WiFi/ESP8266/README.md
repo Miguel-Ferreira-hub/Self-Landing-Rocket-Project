@@ -1,8 +1,8 @@
 # ESP8266 Flashing
 
-# Download esptool
+1. Download esptool
 
-# Download correct flashing files (under ESP8266 Flashing Files)
+2. Download correct flashing files (under ESP8266 Flashing Files)
 
 To flash firmware run the following prompts:
 
